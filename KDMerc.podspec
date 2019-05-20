@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KDMerc'
-  s.version          = '0.3.4'
+  s.version          = '0.1.1'
   s.summary          = '基于mars封装的通讯层和日志层'
 
 # This description is used to generate tags and improve search results.
